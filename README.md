@@ -25,4 +25,11 @@ Practical significance is another topic for statisticians to consider. Can your 
 
 ## German Tanks, Sticks, and Dice
 
-Coming soon!
+In this part we go over three statistical questions and how to solve them in python. The flow is as follows:
+
+- State the problem
+- Set up the experiment
+- Implement in  code
+- Validate result analytically
+
+For more information, see this [aricle](https://medium.com/@nadimkawwa/german-tanks-wood-sticks-and-loaded-dice-4c5c94c25b75?postPublishedType=initial).
