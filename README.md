@@ -33,3 +33,8 @@ In this part we go over three statistical questions and how to solve them in pyt
 - Validate result analytically
 
 For more information, see this [aricle](https://medium.com/@nadimkawwa/german-tanks-wood-sticks-and-loaded-dice-4c5c94c25b75?postPublishedType=initial).
+
+## Principal Component Analysis
+
+In this part we go over the mathematical formulations behind PCA as outlined in Lindsay Smith's [A Tutorial on Principal Component Analysis](https://github.com/NadimKawwa/Statistics/blob/master/data/PCA_tutorial_OUCS-2002-12.pdf).
+The complete walkthrough can be found in this [article](https://medium.com/@nadimkawwa/principal-components-of-pca-bea010cc1d33).
